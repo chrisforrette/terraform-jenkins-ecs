@@ -1,0 +1,1 @@
+Translating CloudFormation set up here into Terraform: https://github.com/Ticketfly/jenkins-docker-examples/tree/master/05-aws-ecs
